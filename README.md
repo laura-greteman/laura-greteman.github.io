@@ -43,7 +43,7 @@ If you discover a security vulnerability within MavBasic web application, please
 
 ## License
 
-The UNO - MavBasic web application is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+This website is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Copyright (C) 2015 - Released under the MIT License.
 
