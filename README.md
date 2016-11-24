@@ -1,33 +1,31 @@
 
-# Sustain
+# Sachin's website on GitHub
 
-[![Build Status](https://secure.travis-ci.org/biomadeira/sustain.png?branch=gh-pages)](http://travis-ci.org/biomadeira/sustain)
-[![Ruby](https://img.shields.io/badge/ruby-2.1,_2.2-blue.svg?style=flat)](http://travis-ci.org/biomadeira/sustain)
-[![Jekyll](https://img.shields.io/badge/jekyll-2.4.0,_3.0.0-blue.svg?style=flat)](http://travis-ci.org/biomadeira/sustain)
+Hi, I'm Sachin Pawaskar, a Developer, Educator, Researcher, and Open Source Enthusiast.
 
-Personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
+Personal site built with [Bootstrap](http://getbootstrap.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
 hosted in [Github pages](https://pages.github.com/).
-
-
-## View the live demo
-
-[Sustain Live Demo](https://biomadeira.github.io/sustain)
-
 
 ## Screenshots
 
 **Home page**
-![home page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen1.png)
-
-**Blog page**
-![blog page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen2.png)
-
-**Post page**
-![post page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen3.png)
+![home page](https://sachinpawaskaruno.github.io/assets/images/home.png)
 
 **Projects page**
-![project page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen4.png)
+![project page](https://sachinpawaskaruno.github.io/assets/images/projects.png)
 
+**Teaching page**
+![teaching page](https://sachinpawaskaruno.github.io/assets/images/teaching.png)
+
+**Research page**
+![research page](https://sachinpawaskaruno.github.io/assets/images/research.png)
+<!-- 
+**Blog page**
+![blog page](https://sachinpawaskaruno.github.io/assets/images/blog.png)
+
+**Post page**
+![post page](https://sachinpawaskaruno.github.io/assets/images/post.png)
+ -->
 
 ## How to use it
 
@@ -35,23 +33,17 @@ Simply clone/fork this repository, and then run `jekyll serve` inside the direct
 Edit the site attributes in *_config.yml* and edit the various entries in *_includes/* and *_posts/*.
 
 
-## Issues and contributing 
+## Contributing
 
-I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. If you run into any problems please log them on the [issue tracker](https://github.com/biomadeira/sustain/issues).
+Thank you for considering contributing to the MavBasic web application! please send an e-mail to Sachin Pawaskar at spawaskar@unomaha.edu, if you wish to contribute.
 
-Feel free pull-request your patches and fixes.
+## Security Vulnerabilities
 
-#### Contributors
+If you discover a security vulnerability within MavBasic web application, please send an e-mail to Sachin Pawaskar at spawaskar@unomaha.edu. All security vulnerabilities will be promptly addressed.
 
-[Sumit Murari](https://github.com/murarisumit), November 2015
+## License
 
-
-## Thanks 
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
-
-
-## Copyright & License
+The UNO - MavBasic web application is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Copyright (C) 2015 - Released under the MIT License.
 
