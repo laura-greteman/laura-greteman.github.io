@@ -9,16 +9,16 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://SachinPawaskarUNO.github.io/
+url: http://laura-greteman.github.io/
 baseurl: /
-title: Sachin Pawaskar
-author: Sachin Pawaskar
+title: Laura Greteman
+author: Laura Greteman
 description: Personal website & blog
 avatar: profile.png
-email: spawaskar@unomaha.edu
-github: SachinPawaskarUNO # username
-twitter: SPaws4
-linkedin: sachinpawaskar
+email: lauramgreteman@gmail.com
+github: Laura-Greteman # username
+twitter: 
+linkedin: lauragreteman
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
